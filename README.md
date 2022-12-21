@@ -1,4 +1,12 @@
 ### Hi there 👋
+😄 Pronouns: He/Him
+📫 How to reach me: whitejaad@gmail.com
+🌱 I’m currently learning Ruby and Ruby on Rails. I am enrolled with Turing.edu, with a graduation date of March 2023.
+⚡ Fun fact: I currently reside in Bend, Or with my wife and three chidlren. We love to snowbaord, camp and play games. I am a certified coffee master, and have been working in leadership for the last+ 20 years.
+
+[![James github stats](https://github-readme-stats.vercel.app/api?username=James-E-White&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=James-E-White)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **James-E-White/James-E-White** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

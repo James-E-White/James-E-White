@@ -1,5 +1,5 @@
 ### Hi there 👋
-😄 Pronouns: He/Him
+😄 Pronouns: He/Him<br>
 📫 How to reach me: whitejaad@gmail.com
 🌱 I’m currently learning Ruby and Ruby on Rails. I am enrolled with Turing.edu, with a graduation date of March 2023.
 ⚡ Fun fact: I currently reside in Bend, Or with my wife and three chidlren. We love to snowbaord, camp and play games. I am a certified coffee master, and have been working in leadership for the last+ 20 years.

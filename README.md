@@ -1,5 +1,5 @@
 ### Hi there 👋
-<center>I'm James, a backend software developer with a background of 20+ years of leadership management. I have really enjoyed the challenges of learning to code and working on teams in different capacities. I want to continue to grow and have a passion for learning. I am a people driven acheiver with a strong belief that we win and lose together. I am excited to share my journey with you. Please do not hesitate to reach out to me via e-mail. I would love to have coffee and chat about our journey's into the tech field.
+<center>I'm James, a backend software developer with a background of 20+ years of leadership management. I have really enjoyed the challenges of learning to code and working on teams in different capacities. I want to continue to grow and have a passion for learning. I am a people driven acheiver with a strong belief that we win and lose together. I am excited to share my journey with you. Please reach out to me via e-mail, I would love to have coffee and chat about our journey's into the tech field.
 😄 Pronouns: He/Him<br>
 📫 How to reach me: whitejaad@gmail.com<br>
 🌱 I’m continuosly learning Ruby/Rails and just started my journey into python. I recently graduated from Turing School of Software and Design.<br>

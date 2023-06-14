@@ -5,7 +5,7 @@
 🌱 I’m continuosly learning Ruby/Rails and just started my journey into python. I recently graduated from Turing School of Software and Design.<br>
 ⚡ Fun fact: I currently reside in Bend, Or with my wife and three children. We love to snowbaord, camp and play games. I love coffee and I am a certified coffee master.
 
-<!--[![James github stats](https://github-readme-stats.vercel.app/api?username=James-E-White&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![James github stats](https://github-readme-stats.vercel.app/api?username=James-E-White&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=James-E-White)](https://github.com/anuraghazra/github-readme-stats)
 </center>
